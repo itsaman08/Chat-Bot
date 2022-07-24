@@ -2,7 +2,8 @@
 
 ## Prerequisites
 * [Jupyter.Notebook](https://jupyter.org/install) : Latest Version
-
+* [python](https://www.python.org/downloads/) : Latest Version
+https://www.python.org/downloads/
 ## Installation
 1. In the top-right corner of the page, click Fork.
 2. On GitHub, navigate to your fork of the respective repository
