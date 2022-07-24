@@ -2,8 +2,7 @@
 
 ## Prerequisites
 * [Jupyter.Notebook](https://jupyter.org/install) : Latest Version
-* [python.3](https://www.python.org/downloads/) : Latest Version
-https://www.python.org/downloads/
+* [python](https://www.python.org/downloads/) : Latest Version
 ## Installation
 1. In the top-right corner of the page, click Fork.
 2. On GitHub, navigate to your fork of the respective repository
@@ -12,9 +11,5 @@ https://www.python.org/downloads/
 5. Open Git Bash.
 6. Change the current working directory to the location where you want the cloned directory.
 7. Type git clone, and then paste the URL you copied earlier. It will look like this, with your GitHub username instead of YOUR-USERNAME
-```
-   $ git clone https://github.com/YOUR-USERNAME/COVID-Info
-```
 8. Press Enter. Your local clone will be created.
-
-```
+``
